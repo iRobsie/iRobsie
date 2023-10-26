@@ -1,4 +1,13 @@
-### Hi there 👋
+### 🚀 Hi, I'm [Robsie], a passionate programmer with a diverse skill set. I excel in multiple programming languages, including Python, JavaScript, and Java. My experience extends to creating, repairing, and maintaining a wide range of projects.
+
+### 🎮 I'm an avid gamer and contribute to the gaming community by developing plugins and tools for games like Final Fantasy XIV and Runescape. Whether it's enhancing the gaming experience or optimizing gameplay, I'm dedicated to crafting solutions that enhance player experiences.
+
+### 💻 In addition to gaming, I work on standalone programs, Discord bots, and various other applications. My expertise in AI technologies adds depth to my work, making me well-versed in creating intelligent and automated solutions.
+
+### 🤖 When it comes to collaborative projects or working independently, I'm adaptable and excel in both realms. I thrive on challenges, and I'm always eager to tackle new coding adventures.
+
+### Feel free to reach out if you have questions or need assistance. Let's bring your coding ideas to life! (Note, I'm not always available, and I may not always be willing, but I do generally respond to most things).
+
 
 <!--
 **iRobsie/iRobsie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
