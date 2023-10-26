@@ -1,4 +1,4 @@
-### 🚀 Hi, I'm [Robsie], a passionate programmer with a diverse skill set. I excel in multiple programming languages, including Python, JavaScript, and Java. My experience extends to creating, repairing, and maintaining a wide range of projects.
+### 🚀 Hi, I'm Robsie, a passionate programmer with a diverse skill set. I excel in multiple programming languages, including Python, JavaScript, and Java. My experience extends to creating, repairing, and maintaining a wide range of projects.
 
 ### 🎮 I'm an avid gamer and contribute to the gaming community by developing plugins and tools for games like Final Fantasy XIV and Runescape. Whether it's enhancing the gaming experience or optimizing gameplay, I'm dedicated to crafting solutions that enhance player experiences.
 
