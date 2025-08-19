@@ -1,12 +1,31 @@
-###  Hi, I'm Robsie, a passionate programmer with a diverse skill set. I excel in multiple programming languages, including Python, JavaScript, and Java. My experience extends to creating, repairing, and maintaining a wide range of projects.
+# Robsie (they/them)
 
-###  I'm an avid gamer and contribute to the gaming community by developing plugins and tools for games like Final Fantasy XIV and Runescape. Whether it's enhancing the gaming experience or optimizing gameplay, I'm dedicated to crafting solutions that enhance player experiences.
+**Software engineer specializing in gameplay tooling, automation, and AI-assisted systems.**  
+I design, implement, and maintain reliable software across scripting, backend services, and game-adjacent tooling. My work spans Python, JavaScript/TypeScript, Java, and the C family, with a focus on performance, maintainability, and clear operational ownership.
 
-###  In addition to gaming, I work on standalone programs, Discord bots, and various other applications. My expertise in AI technologies adds depth to my work, making me well-versed in creating intelligent and automated solutions.
+## Competencies
+- **Languages:** Python · JavaScript/TypeScript · Java · C/C++/C#
+- **Domains:** Game plugins & utilities (FFXIV/Dalamud, OSRS/RuneLite) · Automation & bots (e.g., Discord) · Data processing · Tooling & CLIs
+- **Practices:** Code review · Test automation · Robust error handling · Performance tuning · Clear documentation
 
-###  When it comes to collaborative projects or working independently, I'm adaptable and excel in both realms. I thrive on challenges, and I'm always eager to tackle new coding adventures.
+## What I Do
+- **Gameplay tooling:** Plugins and utilities for **Final Fantasy XIV** and **Old School RuneScape**, improving quality of life, observability, and efficiency.
+- **Automation & bots:** Discord integrations, task orchestration, and workflow automation for communities and projects.
+- **AI-assisted development:** Integration of LLMs and classical automation to accelerate analysis, refactoring, and repetitive tasks—always with explicit safety and control.
 
-### Feel free to reach out if you have questions or need assistance. Let's bring your coding ideas to life! (Note, I'm not always available, and I may not always be willing, but I do generally respond to most things).
+## Working Style
+- **Precise and methodical:** Clear scope, measurable outcomes, and audited changesets.
+- **Independent or collaborative:** Comfortable owning an initiative end-to-end or contributing within established codebases.
+- **Security & reliability minded:** Defensive coding, minimal privileges, and predictable release processes.
+
+## Contact & Collaboration
+For questions, proposals, or collaboration, please open an Issue or Discussion on this repository. Responses are best-effort and subject to availability.
+
+---
+
+### Metrics
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=iRobsie&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)
+
 
 
 <!--
