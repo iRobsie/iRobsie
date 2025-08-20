@@ -1,4 +1,4 @@
-# Robsie (they/them)
+<h1 align="center">Robsie</h1>
 
 **Software engineer specializing in gameplay tooling, automation, and AI-assisted systems.**  
 I design, implement, and maintain reliable software across scripting, backend services, and game-adjacent tooling. My work spans Python, JavaScript/TypeScript, Java, and the C family, with a focus on performance, maintainability, and clear operational ownership.
